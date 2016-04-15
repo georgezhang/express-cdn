@@ -370,6 +370,7 @@ These are feature requests that we would appreciate contributors for:
 
 
 ## Changelog
+* 0.2.4 - Support multiple views extensions
 
 * 0.2.3 - Added support for SVG files (by @zhangchiqing)
 
@@ -428,6 +429,7 @@ These are feature requests that we would appreciate contributors for:
 
 ## Contributors
 
+* George Zhang <george.jx.zhang@gmail.com>
 * Nick Baugh <niftylettuce@gmail.com>
 * Daniel Santiago
 * James Wyse <james@jameswyse.net>
